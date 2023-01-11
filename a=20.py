@@ -1,4 +1,5 @@
 a=20
-b=40
-c=a+b
-print (c)
+b=30
+c=40
+sum =a-b-c
+print ("the sum of three values are", sum)
