@@ -1,0 +1,4 @@
+print('this is a book')
+a=80
+b=7.88
+print(a+b)
