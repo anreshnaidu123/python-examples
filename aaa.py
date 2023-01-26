@@ -10,5 +10,5 @@ div =b/a
 print ("the division of two values,mod")
 
 floor=b//a
-print("fioor value of two values",floor)
+print("floor value of two values",floor)
 
